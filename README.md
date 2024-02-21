@@ -4,7 +4,7 @@ In this analysis, I reflected on the time I spent at the Development Data Partne
 
 I noticed that divide my time differently based on the priorities of the team. However, the values I personally derive from it can be different from the time I spend on it. To understand the initiatives that have taught me a lot, I first listed the tasks I typically spend my time on, and assigned a value for how much learning I get from it. Here is what I found. 
 
-![time_spent.svg](https://github.com/SahitiSarva/sahitisarva.github.io/blob/main/time_spent.svg)
+![time_spent](https://github.com/SahitiSarva/sahitisarva.github.io/blob/main/time_spent.svg)
 
 The number each indicate a Category and Subcategory described below. 
 
