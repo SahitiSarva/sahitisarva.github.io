@@ -2,14 +2,23 @@
 
 In this analysis, I reflected on the time I spent at the Development Data Partnership, quantified the lessons I learnt from it, and visualized it. 
 
-I noticed that divide my time differently based on the priorities of the team. However, the values I personally derive from it can be different from the time I spend on it. To understand the initiatives that have taught me a lot, I first listed the tasks I typically spend my time on, and assigned a value for how much learning I get from it. 
+I noticed that divide my time differently based on the priorities of the team. However, the values I personally derive from it can be different from the time I spend on it. To understand the initiatives that have taught me a lot, I first listed the tasks I typically spend my time on, and assigned a value for how much learning I get from it. Here is what I found. 
 
-## Data
+![time_spent.svg](https://github.com/SahitiSarva/sahitisarva.github.io/blob/main/time_spent.svg)
+
+The number each indicate a Category and Subcategory described below. 
+
+Interpretation Guide: Connections from 'Me' denote four primary task categories, their branches represent task subcategories. Three of the subcategories are shown. The rest can be found here. 
+The size of each coloured bubble signifies the amount of learning I gained from it. The black bubbles represent the time I spent on the task. If the black bubble is inside, it means I learnt a lot from less time spent and vice versa. 
+
+
+## Data and Methodology
 
 The data for this study is an approximate guesstimate of my time working with the team. The data was prepared by identifying four primary buckets of tasks I undertook - Data Partnership Operations, Partnership Portal IT Coordination, Creation and Maintenance of Data Goods and Heatwave Data Collaborative.
 
 Each task is divided into multiple subtasks. Each was assigned a value for time and lessons learned. The time and value assignment were all given on a scale of 1 to 5. 
 
+The analysis of this data was done using the networkX Python package. The analysis itself is a simple visualization. The findings from this analysis can be found on this [notebook](https://github.com/SahitiSarva/sahitisarva.github.io/blob/main/notebooks/network-map.ipynb). 
 
 
 | Category_ID | Category                               | Subcategory_ID | Subcategory                        |
@@ -33,7 +42,3 @@ Each task is divided into multiple subtasks. Each was assigned a value for time 
 |             |                                        | 17             | Data Collaborative Workshop        |
 |             |                                        | 18             | Supporting Grant Funded Project    |
 |             |                                        | 19             | Data Analysis                      |
-
-## Methodology
-
-The analysis of this data was done using the networkX Python package. The analysis itself is a simple visualization. The findings from this analysis can be found on this [notebook](./notebooks/network-map.ipynb). 
